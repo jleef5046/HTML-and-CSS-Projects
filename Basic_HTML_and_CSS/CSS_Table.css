@@ -1,0 +1,11 @@
+table {
+	border: 10px Solid DarkGoldenRod;
+	background-color: black;
+	color: white;
+}
+
+td:hover {
+	background-color: white;
+	color: DarkGoldenRod;
+}
+
