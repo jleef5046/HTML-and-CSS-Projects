@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.registration input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #008b8b;
+    padding: 2% 1% 2% 7%;
+    width: 80%;
+    border: 2px solid #00FFFF;
+    margin: 10px 1em;
+    border-radius: 7px;
+    background: #F0FFFF;
+    box-shadow: inset 0px 3px 0px 0px rgba(59, 188, 186, 0.42);
+    font-family: Arial;
+}
